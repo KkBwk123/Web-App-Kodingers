@@ -342,7 +342,7 @@ footer .footer-right a {
   main {
     display: flex;
     flex-direction: column;
-    margin-top: -70px;
+    margin-top: -50px;
   }
   aside {
     width: 90%;
